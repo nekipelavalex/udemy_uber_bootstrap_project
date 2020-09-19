@@ -1,0 +1,29 @@
+{
+  "name": "udemy_uber_bootstrap_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekipelavalex/udemy_uber_bootstrap_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nekipelavalex/udemy_uber_bootstrap_project/issues"
+  },
+  "homepage": "https://github.com/nekipelavalex/udemy_uber_bootstrap_project#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "i": "^0.3.6"
+  }
+}
